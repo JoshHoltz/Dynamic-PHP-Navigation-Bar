@@ -33,6 +33,9 @@ This means if I was to make a change to the navbar in the navigation-bar.php fil
          </div>
         <li><a href="#">About</a></li>
         <div class="floatright">
+            <li>
+                <input type="text" class="search-bar" placeholder="Search">
+            </li>
             <li><a href="#">Contact</a></li>
         </div>
     </ul>
